@@ -1,0 +1,42 @@
+
+body {
+    background-color: lightblue;
+    color: black;
+  }
+  
+  
+  .container-fluid {
+    background-color: lightyellow;
+    padding: 20px; 
+    border-radius: 10px; 
+  }
+  
+
+  .form-control,
+  .form-check-label {
+    background-color: white;
+    border: 1px solid lightblue; 
+    border-radius: 5px; 
+  }
+  
+ 
+  .btn-primary {
+    background-color: lightblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+ 
+  .form-label {
+    font-weight: bold;
+  }
+  
+
+  .form-check-input:checked + .form-check-label {
+    font-weight: bold;
+    color: lightblue;
+  }
+  
+
+  
